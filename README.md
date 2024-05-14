@@ -10,7 +10,7 @@
 - 🔗 https://github.com/AtulYadavCodes
 - 💬 Ask me about **Java, C, Web 3.0**
 
-- 📫 How to reach me - <a href="" target="_blank">mail</a>
+- 📫 How to reach me - mail
 
 - ⚡ Fun fact **I am also an open source enthusiast**
 

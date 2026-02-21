@@ -9,6 +9,6 @@
 - 💬 Ask me about **Java, python, AI**
 
 - 📫 How to reach me -
- <a href="https://www.linkedin.com/in/atulyadav99/"></a>
+ <a href="https://www.linkedin.com/in/atulyadav99/">linkedin</a>
 
 - ⚡ Fun fact **I am also an open source enthusiast**

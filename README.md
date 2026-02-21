@@ -13,10 +13,3 @@
 - 📫 How to reach me - mail
 
 - ⚡ Fun fact **I am also an open source enthusiast**
-
-
-
-<hr>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AtulYadavCodes&limit=5&theme=flat&combine_all_yearly_contributions=true)

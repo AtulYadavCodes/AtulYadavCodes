@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **MERN Stack and genAI**
 - 💬 Ask me about **Java, python, AI**
 
-- 📫 How to reach me - https://www.linkedin.com/in/atulyadav99/
+- 📫 How to reach me -
+-  https://www.linkedin.com/in/atulyadav99/
 
 - ⚡ Fun fact **I am also an open source enthusiast**

@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **MERN Stack and Web 3.0**
 - 👨‍💻 All of my projects are available at : 
 - 🔗 https://github.com/AtulYadavCodes
-- 💬 Ask me about **Java, C, Web 3.0**
+- 💬 Ask me about **Java, python, AI **
 
 - 📫 How to reach me - mail
 

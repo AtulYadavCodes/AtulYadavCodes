@@ -5,10 +5,10 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtulYadavCodes&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-- Currently I like to work with
-- React js , Node js , Mongo , Express js
-- Java , Python
-- Linux , Nginx , Docker , AWS 
+-  Currently I like to work with
+-  React js , Node js , Mongo , Express js
+-  Java , Python
+-  Linux , Nginx , Docker , AWS 
 
  I am also into GenAI
  

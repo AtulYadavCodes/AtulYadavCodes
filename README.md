@@ -6,11 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtulYadavCodes&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack and genAI**
-  
-- 💬 Ask me about **Java, python, AI**
+- 🌱 I’m currently into **Full Stack and genAI** and you can also ask me about **Java, python, AI**
 
 - 📫 How to reach me -
  <a href="https://www.linkedin.com/in/atulyadav99/">linkedin</a>
 
-- ⚡ Fun fact **I am also an open source enthusiast**

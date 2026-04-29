@@ -4,10 +4,14 @@
 <img align="right" alt="Coding" width="250" src="https://github.com/AtulYadavCodes/AtulYadavCodes/blob/main/gip.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AtulYadavCodes&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AtulYadavCodes&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+-Currently I like to work with
+- React js , Node js , Mongo , Express js
+- Java , Python
+- Linux , Nginx , Docker , AWS 
 
-- 🌱 I’m currently into **Full Stack and genAI** and you can also ask me about **Java, python, AI**
-
+ I am also into GenAI
+ 
 - 📫 How to reach me -
  <a href="https://www.linkedin.com/in/atulyadav99/">linkedin</a>
 

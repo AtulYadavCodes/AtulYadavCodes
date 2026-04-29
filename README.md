@@ -6,12 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtulYadavCodes&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- Currently I like to work with
+# Currently I like to work with
 - React js , Node js , Mongo , Express js
 - Java , Python
-- Linux , Nginx , Docker , AWS 
-
- I am also into GenAI
+- Linux , Nginx , Docker , AWS
+  
+- I am also into GenAI
  
 - 📫 How to reach me -
  <a href="https://www.linkedin.com/in/atulyadav99/">linkedin</a>
